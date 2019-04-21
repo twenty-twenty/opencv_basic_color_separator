@@ -6,7 +6,7 @@ If your not familiar with hsv: HSV.JPG is an example image taken from wikipedia,
 
 How to:
 - Open script
-- Alter the image path (or use the example image)
+- Alter image path (or use the example image)
 - Run script
 
 ![screenshot](https://github.com/twenty-twenty/opencv_basic_color_separator/blob/master/screenshot.JPG)
