@@ -3,6 +3,8 @@ import numpy as np
 
 # path to image
 image_path = "hsv.jpg"
+# resize if image is larger than 800x600
+resize = True
 
 def createGUI():
     '''Function that creates the trackbar interface'''
